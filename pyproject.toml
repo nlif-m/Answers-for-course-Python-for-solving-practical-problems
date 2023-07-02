@@ -15,6 +15,7 @@ xlrd = "1.2.0"
 [tool.poetry.group.dev.dependencies]
 ruff = "^0.0.275"
 black = "^23.3.0"
+mypy = "^1.4.1"
 
 [build-system]
 requires = ["poetry-core"]
